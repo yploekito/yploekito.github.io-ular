@@ -1,0 +1,26 @@
+
+*{
+    color: gold;
+    box-sizing : border-box;
+    background-image : url(background.jpg);
+    background-size : 100% 100%;
+}
+
+.box{
+    width : 500;
+    margin : auto;
+ 
+}
+
+.dalam{
+    width :50%;
+    margin : 10 auto 10 auto;
+    text-align : center;
+}
+
+#canvasGame{
+    width: 500;
+    height : 300;
+    border : solid;
+    /* margin : auto; */
+}
